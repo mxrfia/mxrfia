@@ -1,4 +1,4 @@
-<h1 align="left">Oiii! Morfiacan</h1>
+<h1 align="left">Oiii..</h1>
 
 <p align="center">
 <img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
