@@ -1,8 +1,8 @@
 <h1 align="left">Oiii! Ben Morfia 👋</h1>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&theme=dracula&hide_border=false&border_radius=10&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&theme=dracula&hide_border=false&border_radius=10&langs_count=8" />
 </p>
 
 <p align="left">
