@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" height="170" />
+  <img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-u74g.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" height="170" />
 </p>
 
 <p align="left">
@@ -32,3 +32,4 @@
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4YTRnczh0aXk2dTVyem5hN3U4eDF2YjNjaXQwN3MyM2JsYjYxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="110" />
 </p>
+
