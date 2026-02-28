@@ -1,9 +1,5 @@
 <h1 align="left">Oiii! Morfiacan</h1>
 
-<p align="left">
-C/C++ • JavaScript • Security Tooling • Automation
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
 <img src="https://github-readme-stats-u74g.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" height="170" />
