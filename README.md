@@ -1,19 +1,23 @@
-﻿<h1 align="left">Oiii! Morfiacan</h1>
+<h1 align="left">Oiii! Morfiacan</h1>
+
+<p align="left">
+C/C++ • JavaScript • Security Tooling • Automation
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-u74g.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" height="170" />
+<img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats-u74g.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" />
 </p>
 
 <table>
@@ -31,8 +35,3 @@
 </td>
 </tr>
 </table>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4YTRnczh0aXk2dTVyem5hN3U4eDF2YjNjaXQwN3MyM2JsYjYxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="110" />
-</p>
-
