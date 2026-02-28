@@ -1,43 +1,41 @@
-name: Update README cards
+<h1 align="center">Hey, I'm Morfia 👋</h1>
+<h3 align="center">C/C++ • JavaScript • Automation • Defensive RE Learner</h3>
 
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mxrfia&label=Profile%20Views&color=bd93f9&style=flat" alt="profile views" />
+</p>
 
-permissions:
-  contents: write
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+### 🧠 About Me
+- 🔧 Building practical tools & clean systems
+- ⚡️ Focused on **C/C++**, **JavaScript**, **Node.js**
+- 🛡️ Learning reverse engineering from a **defensive** perspective
+- 🎯 Vibe: relaxed style, serious execution
 
-      - name: Generate GitHub stats SVG
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: mxrfia
-          show_icons: true
-          theme: dracula
-          include_all_commits: true
-          output_file: profile/stats.svg
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,python,git,github,vscode,linux,bash" />
+</p>
 
-      - name: Generate Top Langs SVG
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: mxrfia
-          layout: compact
-          langs_count: 16
-          theme: dracula
-          output_file: profile/top-langs.svg
-          card: top-langs
+---
 
-      - name: Commit & push
-        run: |
-          mkdir -p profile
-          git add profile/*.svg
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git commit -m "Update README cards" || exit 0
-          git push
+## 📊 GitHub Stats (Dracula)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&theme=dracula&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mxrfia&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect
+- YouTube: [@mxrfia](https://www.youtube.com/@mxrfia)
+
+---
+
+> “Build fast. Think deep. Ship clean.”
