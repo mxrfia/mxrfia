@@ -23,5 +23,5 @@
 <a href="https://discord.com/users/1022984025129881811"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:morvay404@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtsdTZydHAwbm5kNnZxbGh3M3U2NmE4cjJpYmVwbDljdHozdDZ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cSDXIstYJiMF5bOrBj/giphy.gif" width="130" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtsdTZydHAwbm5kNnZxbGh3M3U2NmE4cjJpYmVwbDljdHozdDZ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cSDXIstYJiMF5bOrBj/giphy.gif" width="145" />
 </p>
