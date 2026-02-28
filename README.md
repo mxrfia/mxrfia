@@ -5,8 +5,7 @@ C/C++ • JavaScript • Security Tooling • Automation
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="170" />
+<img src="https://streak-stats.demolab.com?user=mxrfia&theme=dracula&hide_border=true" />
 </p>
 
 <p align="left">
