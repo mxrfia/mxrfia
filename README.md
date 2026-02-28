@@ -1,11 +1,1 @@
-# Morfia
-
-C/C++ • JavaScript • Automation
-
-## About
-- Building practical tools
-- Learning defensive reverse engineering
-- Focused on clean code
-
-## Connect
-- YouTube: https://www.youtube.com/@mxrfia
+[![Morfia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrfia)](https://github.com/anuraghazra/github-readme-stats)
