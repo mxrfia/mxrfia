@@ -1,4 +1,4 @@
-<h1 align="left">Oiii..</h1>
+﻿<h1 align="left">Oiii..</h1>
 
 <p align="center">
 <img src="https://github-readme-stats-u74g.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" height="170" />
@@ -23,4 +23,8 @@
 <a href="mailto:morvay404@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXBub3FsZjY0dml0YmdsZmIwbGswZDI0anl4ZTA2eDdvZXYzdGw1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tCUhLEngnB1Ru/giphy.gif" width="180" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-HUNTER-2ea043?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
