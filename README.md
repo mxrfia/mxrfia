@@ -1,12 +1,7 @@
-<h1 align="left">Oiii! Ben Morfia 👋</h1>
+﻿<h1 align="left">Oiii! Ben Morfia 👋</h1>
 
 <p align="left">
   C/C++ • JavaScript • Security Tooling • Automation
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxrfia&show_icons=true&theme=dracula&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrfia&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8" />
 </p>
 
 <p align="left">
@@ -18,6 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/COMMITS-Active-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-KMDF%20%26%20Security-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Building-cd7f32?style=for-the-badge" />
 </p>
 
 <p align="left">
