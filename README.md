@@ -24,7 +24,3 @@
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXBub3FsZjY0dml0YmdsZmIwbGswZDI0anl4ZTA2eDdvZXYzdGw1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tCUhLEngnB1Ru/giphy.gif" width="180" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/BUG_BOUNTY-HUNTER-2ea043?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
